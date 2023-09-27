@@ -13,21 +13,6 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''  
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
@@ -35,10 +20,10 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: True
     highlight_active_link: true
 
 # Site footer
@@ -47,9 +32,9 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -80,7 +65,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
@@ -107,10 +92,10 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Security
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: false

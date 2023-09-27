@@ -1,47 +1,49 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Aras Amini
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Aras
+last_name: Amini
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Manchester University
+    url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Novel Particle Acceleration Techniques, Accelerator Applications, Numerical Simulation, and the Integration of Artificial Intelligence in Scientific Endeavors.
 
 # Interests to show in About widget
 interests:
+  - Particle Accelerators
+  - Medical Accelerator
+  - Numerical Simulation
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Particle Physics
+      institution: Manchester University, UK
+      year: 2023-2027
+    - course: MSc in Physics
+      institution: Université Paris-Saclay, France
+      year: 2021-2023
+    - course: MSc in Physics
+      institution: Sapienza University of Rome, Italy
+      year: 2021-2023
+    - course: BSc in Nuclear Physics
+      institution: Urmia University, Iran
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,21 +53,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Aras-Amini
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aaminii/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/aras_amini/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aras-amini/
+    label: Let's connect
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +76,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'aras.aminim@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ Aras Amini is a  Ph.D. candidate specializing in Particle Accelerator Physics at Manchester University. His research pursuits encompass Novel Particle Acceleration Techniques, Accelerator Applications, Numerical Simulation, and the Integration of Artificial Intelligence in Scientific Endeavors. Presently, he is engrossed in pioneering work centered around THz-driven beam manipulation for external injection into plasmas.
 {style="text-align: justify;"}
