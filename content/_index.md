@@ -103,7 +103,7 @@ sections:
           organization_url: https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/
           title: Deans Doctoral Scholarship
           url: ''
-        - certificate_url: hhttps://www.master-lascala.eu/
+        - certificate_url: https://www.master-lascala.eu/
           date_end: '2023-09-01'
           date_start: '2021-09-01'
           description: ''
