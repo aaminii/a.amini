@@ -32,7 +32,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Particle Physics
+    - course: PhD in Particle Accelerator
       institution: Manchester University, UK
       year: 2023-2027
     - course: MSc in Physics
