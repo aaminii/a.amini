@@ -82,5 +82,5 @@ email: 'aras.aminim@gmail.com'
 highlight_name: true
 ---
 
- Aras Amini is a  Ph.D. candidate specializing in Particle Accelerator Physics at Manchester University. His research pursuits encompass Novel Particle Acceleration Techniques, Accelerator Applications, Numerical Simulation, and the Integration of Artificial Intelligence in Scientific Endeavors. Presently, he is engrossed in pioneering work centered around THz-driven beam manipulation for external injection into plasmas.
+ Aras Amini is a  Ph.D. candidate specializing in Particle Accelerator Physics at Manchester University. His research pursuits encompass Novel Particle Acceleration Techniques, Accelerator Applications, Numerical Simulation, and the Integration of Artificial Intelligence in Scientific Endeavors. Presently, he is working on THz-driven beam manipulation for external injection into plasmas.
 {style="text-align: justify;"}
