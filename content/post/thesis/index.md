@@ -91,7 +91,7 @@ was accelerated within the range of TeV/m (see Fig. 5).
 longitudinal positions during its laser-driven acceleration inside the CNT array.</figcaption>
 </figure>
 
-**<span style="color: blue;">The combined findings from this study and previous research suggest that the concept of multistage
+**<span style="color: green;">The combined findings from this study and previous research suggest that the concept of multistage
 TeV acceleration by solid-state plasma is attainable. However, achieving such capabilities
 poses significant experimental challenges. More in-depth studies, whether analytical or numerical,
 are imperative to explore this avenue further. In this context, the Effective density approach
